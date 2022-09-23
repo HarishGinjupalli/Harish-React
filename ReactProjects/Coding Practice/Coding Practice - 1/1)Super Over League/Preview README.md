@@ -1,47 +1,45 @@
 Super Over League
 
-In this project, let's build a Super Over League by applying the concepts we have learned till now.
+  In this project, let's build a Super Over League by applying the concepts we have learned till now.
 
 Refer to the image below:
 
-https://assets.ccbp.in/frontend/content/react-js/super-over-league-lg-output.png
-supe-over-league-output
-
-
+  https://assets.ccbp.in/frontend/content/react-js/super-over-league-lg-output.png
+  
 Design Files
 
-Click to view
+  Click to view
 
-Extra Small (Size < 576px), Small (Size >= 576px)
+    Extra Small (Size < 576px), Small (Size >= 576px)
 
-Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)
+    Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)
 
 Completion Instructions
 
-Implementation Files
+  Implementation Files
 
-Use these files to complete the implementation:
+    Use these files to complete the implementation:
 
-index.html
+      index.html
 
-index.js
+      index.js
 
-index.css
+      index.css
 
 Resources
 
-Image URLs
+  Image URLs
 
-https://assets.ccbp.in/frontend/react-js/rcb-img.png
+    https://assets.ccbp.in/frontend/react-js/rcb-img.png
 
-https://assets.ccbp.in/frontend/react-js/csk-img.png
+    https://assets.ccbp.in/frontend/react-js/csk-img.png
 
-Colors
+  Colors
 
-Hex: #0f172a
+    Hex: #0f172a
 
-Hex: #f8fafc
+    Hex: #f8fafc
 
-Font-families
+  Font-families
 
-Roboto
+    Roboto
