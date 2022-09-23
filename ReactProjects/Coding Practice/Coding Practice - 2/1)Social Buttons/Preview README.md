@@ -16,7 +16,7 @@ Design Files
     
 Completion Instructions
 
-  Implementation Files
+  Implementation Files:
 
     Use these files to complete the implementation:
 
@@ -26,11 +26,11 @@ Completion Instructions
     
 Resources
 
-  Image URLs
+  Image URLs:
   
     https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png
     
-  Colors
+  Colors:
   
     Hex: #eab308
     
@@ -40,7 +40,7 @@ Resources
     
     Hex: #323f4b
   
-  Font-families
+  Font-families:
   
     Roboto
     
