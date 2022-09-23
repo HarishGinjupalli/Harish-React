@@ -8,7 +8,7 @@ Refer to the image below:
   
 Design Files
 
-  Click to view
+  Click to view:
 
     Extra Small (Size < 576px), Small (Size >= 576px)
 
@@ -16,7 +16,7 @@ Design Files
 
 Completion Instructions
 
-  Implementation Files
+  Implementation Files:
 
     Use these files to complete the implementation:
 
@@ -28,18 +28,18 @@ Completion Instructions
 
 Resources
 
-  Image URLs
+  Image URLs:
 
     https://assets.ccbp.in/frontend/react-js/rcb-img.png
 
     https://assets.ccbp.in/frontend/react-js/csk-img.png
 
-  Colors
+  Colors:
 
     Hex: #0f172a
 
     Hex: #f8fafc
 
-  Font-families
+  Font-families:
 
     Roboto
