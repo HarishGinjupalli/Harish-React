@@ -3,12 +3,13 @@ import './index.css'
 const CardItem = props => {
   const {cardDetails} = props
   const {title, description, imgUrl, className} = cardDetails
+
   return (
-    <li className={`${className} card-item-container`}>
-      <h1 className="card-item-title ">{title}</h1>
-      <p className="card-item-description">{description}</p>
-      <div className="card-item-image-container">
-        <img src={imgUrl} className="card-item-image" alt={title} />
+    <li className={`${className} card-item`}>
+      <h1 className="card-title">{title}</h1>
+      <p className="card-description">{description}</p>
+      <div className="img-container">
+        <img className="card-img" src={imgUrl} alt={title} />
       </div>
     </li>
   )
