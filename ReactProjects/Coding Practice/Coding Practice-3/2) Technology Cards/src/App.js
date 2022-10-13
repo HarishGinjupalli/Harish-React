@@ -1,4 +1,4 @@
-import CardItem from "./components/CardItem";
+import CardItem from './components/CardItem'
 
 import './App.css'
 
@@ -27,7 +27,7 @@ const cardsList = [
     imgUrl: 'https://assets.ccbp.in/frontend/react-js/vr-developer-img.png',
     className: 'card-3',
   },
-  {   
+  {
     id: 4,
     title: 'ML Engineer',
     description:
@@ -38,18 +38,21 @@ const cardsList = [
 ]
 
 const App = () => (
-    <div className="card-app-container">
-        <div className="card-list-container">
-            <h1 className="card-container-heading">Learn 4.0 Technologies</h1>
-            <p className="card-container-description">Get trained by alumini of IITs and top companies like Google, Amazon, Microsoft, Intel, Nvidia, Qualcom, etc.,.Learn directly from professionals involved in product development</p>
-            <ul className="cards-list">
-                {
-                    cardsList.map(eachCard=>(
-                    <CardItem cardDetails={eachCard} key={eachCard.id} />)
-                }
-            </ul>
-        </div>
+  <div className="cards-app-container">
+    <div className="cards-list-container">
+      <h1 className="heading">Learn 4.0 Technologies</h1>
+      <p className="description">
+        Get trained by alumni of IITs and top companies like Amazon, Microsoft,
+        Intel, Nvidia, Qualcomm, etc. Learn directly from professionals involved
+        in Product Development.
+      </p>
+      <ul className="cards-list">
+        {cardsList.map(eachCard => (
+          <CardItem cardDetails={eachCard} key={eachCard.id} />
+        ))}
+      </ul>
     </div>
+  </div>
 )
 
 export default App
