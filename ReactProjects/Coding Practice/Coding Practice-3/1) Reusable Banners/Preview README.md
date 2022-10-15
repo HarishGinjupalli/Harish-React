@@ -32,9 +32,9 @@ The app must have the following functionalities
 
 The App is provided with bannerCardsList. It consists of a list of bannerCardItem objects with the following properties in each bannerCardItem object
 
-    Key	Data Type
+    Key	        Data Type
 
-    id	Number
+    id	        Number
 
     headerText	String
 
@@ -48,11 +48,11 @@ The App is provided with bannerCardsList. It consists of a list of bannerCardIte
 
 Implementation Files
 
-  Use these files to complete the implementation:
+    Use these files to complete the implementation:
 
-  src/App.js
+    src/App.js
 
-  src/App.css
+    src/App.css
 
   src/components/BannerCardItem/index.js
 
