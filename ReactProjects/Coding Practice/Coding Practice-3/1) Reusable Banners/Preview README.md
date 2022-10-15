@@ -10,67 +10,69 @@ resuable-banners-output
 
 Design Files
 
-Click to view
+  Click to view
 
-Extra Small (Size < 576px), Small (Size >= 576px), Medium (Size >= 768px)
+  Extra Small (Size < 576px), Small (Size >= 576px), Medium (Size >= 768px)
 
-Large (Size >= 992px) and Extra Large (Size >= 1200px)
+  Large (Size >= 992px) and Extra Large (Size >= 1200px)
 
 Set Up Instructions
 
-Click to view
+  Click to view
 
-Download dependencies by running npm install
+    Download dependencies by running npm install
 
-Start up the app using npm start
+    Start up the app using npm start
 
 Completion Instructions
 
-Functionality to be added
+  Functionality to be added
 
-The app must have the following functionalities
+    The app must have the following functionalities
 
-The App is provided with bannerCardsList. It consists of a list of bannerCardItem objects with the following properties in each bannerCardItem object
+    The App is provided with bannerCardsList. It consists of a list of bannerCardItem objects with the following properties in each bannerCardItem object
 
-Key	Data Type
+    Key	Data Type
 
-id	Number
+    id	Number
 
-headerText	String
+    headerText	String
 
-description	String
+    description	String
 
-className	String
+    className	String
 
-The value of the key id should be used as a key to the BannerCardItem component.
+  The value of the key id should be used as a key to the BannerCardItem component.
 
-The value of the key className should be used as a className for the HTML list item in the BannerCardItem component.
+  The value of the key className should be used as a className for the HTML list item in the BannerCardItem component.
 
 Implementation Files
 
-Use these files to complete the implementation:
+  Use these files to complete the implementation:
 
-src/App.js
+  src/App.js
 
-src/App.css
+  src/App.css
 
-src/components/BannerCardItem/index.js
+  src/components/BannerCardItem/index.js
 
-src/components/BannerCardItem/index.css
+  src/components/BannerCardItem/index.css
+  
 Resources
-Colors
 
-Hex: #cbced2
+  Colors
 
-Hex: #64748b
+    Hex: #cbced2
 
-Hex: #ffffff
+    Hex: #64748b
 
-Hex: #326a9d
+    Hex: #ffffff
 
-Font-families
+    Hex: #326a9d
 
-Roboto
+  Font-families
+
+    Roboto
 
 Things to Keep in Mind
 
