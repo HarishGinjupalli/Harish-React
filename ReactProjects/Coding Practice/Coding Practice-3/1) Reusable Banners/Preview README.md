@@ -8,29 +8,29 @@ https://assets.ccbp.in/frontend/content/react-js/resuable-banners-lg-output.png
 
 resuable-banners-output
 
-  Design Files
+    Design Files
 
-  Click to view
+    Click to view
 
-  Extra Small (Size < 576px), Small (Size >= 576px), Medium (Size >= 768px)
+    Extra Small (Size < 576px), Small (Size >= 576px), Medium (Size >= 768px)
 
-  Large (Size >= 992px) and Extra Large (Size >= 1200px)
+    Large (Size >= 992px) and Extra Large (Size >= 1200px)
 
 Set Up Instructions
 
-  Click to view
+    Click to view
 
-    Download dependencies by running npm install
+      Download dependencies by running npm install
 
-    Start up the app using npm start
+      Start up the app using npm start
 
 Completion Instructions
 
-  Functionality to be added
+ Functionality to be added
 
-    The app must have the following functionalities
+The app must have the following functionalities
 
-    The App is provided with bannerCardsList. It consists of a list of bannerCardItem objects with the following properties in each bannerCardItem object
+The App is provided with bannerCardsList. It consists of a list of bannerCardItem objects with the following properties in each bannerCardItem object
 
     Key	Data Type
 
