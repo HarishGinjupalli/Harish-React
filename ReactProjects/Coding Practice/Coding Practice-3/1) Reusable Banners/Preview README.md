@@ -8,7 +8,7 @@ https://assets.ccbp.in/frontend/content/react-js/resuable-banners-lg-output.png
 
 resuable-banners-output
 
-Design Files
+  Design Files
 
   Click to view
 
